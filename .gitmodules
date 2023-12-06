@@ -1,0 +1,6 @@
+[submodule "app/frontend"]
+	path = app/frontend
+	url = git@github.com:nicolaschicaiza/webapp-fullstack-frontend-angular.git
+[submodule "app/backend"]
+	path = app/backend
+	url = git@github.com:nicolaschicaiza/webapp-fullstack-angular-backend-sprint.git
